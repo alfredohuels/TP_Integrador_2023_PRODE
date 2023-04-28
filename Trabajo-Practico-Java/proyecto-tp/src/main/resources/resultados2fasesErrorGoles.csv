@@ -1,0 +1,17 @@
+id_fase,id_partido,Ronda - id,Ronda - nro,Equipo 1 - id,Equipo 1 - nombre,Equipo 1 - descripcion,Equipo 1 - cantidad goles,Equipo 2 - cantidad goles,Equipo 2 - id,Equipo 2 - nombre,Equipo 2 - descripcion
+1,1,1,1,1,Argentina,Seleccionado,1,2,2,Arabia Saudita,Seleccionado
+1,2,1,1,3,Polonia,Seleccionado,0,0,4,México,Seleccionado
+1,3,1,1,1,Argentina,Seleccionado,2,0,4,México,Seleccionado
+1,4,1,1,2,Arabia Saudita,Seleccionado,0,2,3,Polonia,Seleccionado
+1,5,2,2,5,Catar,Seleccionado,0,2,6,Ecuador,Seleccionado
+1,6,2,2,7,Senegal,Seleccionado,0,2,8,Paises Bajos,Seleccionado
+1,7,2,2,5,Catar,Seleccionado,1,3,7,Senegal,Seleccionado
+1,8,2,2,8,Paises Bajos,Seleccionado,1,1,6,Ecuador,Seleccionado
+2,9,3,3,8,Paises Bajos,Seleccionado,3,1,9,EstadosUnidos,Seleccionado
+2,10,3,3,1,Argentina,Seleccionado,2,1,10,Australia,Seleccionado
+2,11,3,3,11,Francia,Seleccionado,3,1,3,Polonia,Seleccionado
+2,12,3,3,12,Inglaterra,Seleccionado,3,0,7,Senegal,Seleccionado
+2,13,4,4,13,Japon,Seleccionado,1,0,14,Croacia,Seleccionado
+2,14,4,4,15,Brasil,Seleccionado,4,1,16,Republica de Corea,Seleccionado
+2,15,4,4,17,Marruecos,Seleccionado,0,0,18,España,Seleccionado
+2,16,4,4,19,Portugal,Seleccionado,6,1,20,Suiza,Seleccionado

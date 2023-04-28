@@ -1,0 +1,20 @@
+Trabajo Integrador Final:
+========================
+
+Link a Git:
+https://github.com/alfredohuels/TP_Integrador_2023.git
+
+
+
+Responder las siguientes preguntas en forma individual:
+
+¿Cuál fue la parte que desarrollaste del Trabajo Práctico?
+   Se ayudo en general, se trabajo sin dividir tareas.
+
+
+¿Cuál fue la parte que más te costó desarrollar?
+   Lo que más me costó fue llegar a presentar la 1ra entrega.
+
+
+¿Cuál fue la parte que más te gustó desarrollar?
+   La parte que mas me gustó la de interactuar con SQL
